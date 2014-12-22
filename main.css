@@ -1,0 +1,38 @@
+body{
+    font-size:14px;
+}
+h1{
+    margin: 20px;
+}
+th{
+    padding: 5px;
+}
+td{
+}
+td.min{
+    background-color: lightyellow;
+    font-weight:bold;
+}
+th{
+    background-color:#656565;
+    color:#ddd;
+    cursor:pointer;
+}
+tr:hover, tr:hover td{
+    background-color: #f1f1f1; /*#c1ffc1;*/
+}
+span.darr, span.uarr{
+    font-size:12px;
+}   
+span.uarr{
+    display:inline;
+    position:absolute;
+    margin: 0;
+    padding: 0;
+}
+button#show_ipads{
+    margin: 20px;
+}
+table{
+    margin: 20px 0xp 20px 0px;
+}
